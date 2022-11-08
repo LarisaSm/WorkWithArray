@@ -10,3 +10,8 @@
     <summary>Полное задание</summary>
     <img src="./task.png" alt="Task">
 </details>
+
+<details>
+    <summary>Схема алгоритма решения</summary>
+    <img src="./block.drawio.png" alt="Block">
+</details>
